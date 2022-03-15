@@ -1,4 +1,4 @@
-## Steps
+## Steps to use
 <hr>
 
 - Take a look at the [form](https://forms.gle/whiPHrhC5XAb96QQ7), we are going to use.
